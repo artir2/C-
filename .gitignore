@@ -1,0 +1,14 @@
+*.cmake
+cmake.*
+*.log
+*.bin
+Makefile*
+CMakeCache.txt
+CMakeFiles/feature_tests.c
+*.marks
+*.make
+*.cxx
+*.out
+CMakeFiles/TargetDirectories.txt
+CMakeFiles/cpp_snippets.dir/link.txt
+*CompilerId.*
