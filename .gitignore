@@ -14,3 +14,5 @@ CMakeFiles/cpp_snippets.dir/link.txt
 *CompilerId.*
 CMakeFiles/cpp_snippets.dir/CXX.includecache
 CMakeFiles/cpp_snippets.dir/depend.internal
+*.o
+cpp_snippets
